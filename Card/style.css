@@ -25,6 +25,7 @@ body {
     transition: 0.5s;
     animation: movement 0.7s infinite linear;
     transform: translateX(45deg);
+    cursor: pointer;
 }
 
 @keyframes movement {
